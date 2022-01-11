@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\saved_news_item.xml",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\layout\\saved_news_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\search_news_item.xml",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\layout\\search_news_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\swipe_news_card.xml",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\layout\\swipe_news_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_save.xml",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\layout\\fragment_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_details.xml",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\layout\\fragment_details.xml"
+    }
+]

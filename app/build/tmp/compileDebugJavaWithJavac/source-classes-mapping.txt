@@ -1,0 +1,97 @@
+com/laioffer/tinnews/ui/home/HomeFragment.java
+ com.laioffer.tinnews.ui.home.HomeFragment
+com/laioffer/tinnews/ui/details/DetailsFragment.java
+ com.laioffer.tinnews.ui.details.DetailsFragment
+com/laioffer/tinnews/MainActivity.java
+ com.laioffer.tinnews.MainActivity
+com/laioffer/tinnews/databinding/FragmentSaveBinding.java
+ com.laioffer.tinnews.databinding.FragmentSaveBinding
+com/laioffer/tinnews/database/TinNewsDatabase.java
+ com.laioffer.tinnews.database.TinNewsDatabase
+com/laioffer/tinnews/databinding/FragmentDetailsBinding.java
+ com.laioffer.tinnews.databinding.FragmentDetailsBinding
+com/laioffer/tinnews/TinNewsApplication.java
+ com.laioffer.tinnews.TinNewsApplication
+com/laioffer/tinnews/databinding/SavedNewsItemBinding.java
+ com.laioffer.tinnews.databinding.SavedNewsItemBinding
+com/laioffer/tinnews/database/ArticleDao.java
+ com.laioffer.tinnews.database.ArticleDao
+com/laioffer/tinnews/ui/search/SearchFragment.java
+ com.laioffer.tinnews.ui.search.SearchFragment
+ com.laioffer.tinnews.ui.search.SearchFragment$1
+com/laioffer/tinnews/repository/MyView.java
+ com.laioffer.tinnews.repository.MyView
+ com.laioffer.tinnews.repository.MyView$ClickListener
+com/laioffer/tinnews/databinding/SwipeNewsCardBinding.java
+ com.laioffer.tinnews.databinding.SwipeNewsCardBinding
+com/laioffer/tinnews/ui/search/SearchFragmentDirections.java
+ com.laioffer.tinnews.ui.search.SearchFragmentDirections
+ com.laioffer.tinnews.ui.search.SearchFragmentDirections$1
+ com.laioffer.tinnews.ui.search.SearchFragmentDirections$ActionNavigationSearchToNavigationDetails
+com/laioffer/tinnews/ui/save/SaveFragmentDirections.java
+ com.laioffer.tinnews.ui.save.SaveFragmentDirections
+ com.laioffer.tinnews.ui.save.SaveFragmentDirections$1
+ com.laioffer.tinnews.ui.save.SaveFragmentDirections$ActionNavigationSaveToNavigationDetails
+com/laioffer/tinnews/databinding/FragmentHomeBinding.java
+ com.laioffer.tinnews.databinding.FragmentHomeBinding
+com/laioffer/tinnews/network/RetrofitClient.java
+ com.laioffer.tinnews.network.RetrofitClient
+ com.laioffer.tinnews.network.RetrofitClient$1
+ com.laioffer.tinnews.network.RetrofitClient$HeaderInterceptor
+com/laioffer/tinnews/ui/save/SaveViewModel.java
+ com.laioffer.tinnews.ui.save.SaveViewModel
+com/laioffer/tinnews/ui/save/SavedNewsAdapter.java
+ com.laioffer.tinnews.ui.save.SavedNewsAdapter
+ com.laioffer.tinnews.ui.save.SavedNewsAdapter$1
+ com.laioffer.tinnews.ui.save.SavedNewsAdapter$ItemCallback
+ com.laioffer.tinnews.ui.save.SavedNewsAdapter$SavedNewsViewHolder
+com/laioffer/tinnews/ui/save/SaveFragment.java
+ com.laioffer.tinnews.ui.save.SaveFragment
+ com.laioffer.tinnews.ui.save.SaveFragment$1
+ com.laioffer.tinnews.ui.save.SaveFragment$2
+com/laioffer/tinnews/ui/details/DetailsFragmentArgs.java
+ com.laioffer.tinnews.ui.details.DetailsFragmentArgs
+ com.laioffer.tinnews.ui.details.DetailsFragmentArgs$1
+ com.laioffer.tinnews.ui.details.DetailsFragmentArgs$Builder
+com/laioffer/tinnews/ui/search/SearchViewModel.java
+ com.laioffer.tinnews.ui.search.SearchViewModel
+com/laioffer/tinnews/repository/MyFragment.java
+ com.laioffer.tinnews.repository.MyFragment
+com/laioffer/tinnews/network/NewsApi.java
+ com.laioffer.tinnews.network.NewsApi
+com/laioffer/tinnews/ui/home/HomeViewModel.java
+ com.laioffer.tinnews.ui.home.HomeViewModel
+com/laioffer/tinnews/ui/home/CardSwipeAdapter.java
+ com.laioffer.tinnews.ui.home.CardSwipeAdapter
+ com.laioffer.tinnews.ui.home.CardSwipeAdapter$CardSwipeViewHolder
+com/laioffer/tinnews/databinding/SearchNewsItemBinding.java
+ com.laioffer.tinnews.databinding.SearchNewsItemBinding
+com/laioffer/tinnews/BuildConfig.java
+ com.laioffer.tinnews.BuildConfig
+com/laioffer/tinnews/model/Article.java
+ com.laioffer.tinnews.model.Article
+com/laioffer/tinnews/repository/NewsRepository.java
+ com.laioffer.tinnews.repository.NewsRepository
+ com.laioffer.tinnews.repository.NewsRepository$1
+ com.laioffer.tinnews.repository.NewsRepository$2
+ com.laioffer.tinnews.repository.NewsRepository$FavoriteAsyncTask
+com/laioffer/tinnews/repository/MyActivity.java
+ com.laioffer.tinnews.repository.MyActivity
+ com.laioffer.tinnews.repository.MyActivity$1
+com/laioffer/tinnews/model/NewsResponse.java
+ com.laioffer.tinnews.model.NewsResponse
+com/laioffer/tinnews/ui/search/SearchNewsAdapter.java
+ com.laioffer.tinnews.ui.search.SearchNewsAdapter
+ com.laioffer.tinnews.ui.search.SearchNewsAdapter$1
+ com.laioffer.tinnews.ui.search.SearchNewsAdapter$ItemCallBack
+ com.laioffer.tinnews.ui.search.SearchNewsAdapter$SearchNewsViewHolder
+com/laioffer/tinnews/databinding/ActivityMainBinding.java
+ com.laioffer.tinnews.databinding.ActivityMainBinding
+com/laioffer/tinnews/repository/TestAsync.java
+ com.laioffer.tinnews.repository.TestAsync
+ com.laioffer.tinnews.repository.TestAsync$1
+ com.laioffer.tinnews.repository.TestAsync$1$1
+com/laioffer/tinnews/repository/NewsViewModelFactory.java
+ com.laioffer.tinnews.repository.NewsViewModelFactory
+com/laioffer/tinnews/databinding/FragmentSearchBinding.java
+ com.laioffer.tinnews.databinding.FragmentSearchBinding

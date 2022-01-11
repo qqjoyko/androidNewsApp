@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_details.xml.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\layout\\fragment_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\layout_saved_news_item.xml.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\layout\\saved_news_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_branding_watermark_24.xml.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\drawable\\ic_baseline_branding_watermark_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_save_black_24dp.xml.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\drawable\\ic_save_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_save.xml.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\layout\\fragment_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\layout_swipe_news_card.xml.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\layout\\swipe_news_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\layout_search_news_item.xml.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\layout\\search_news_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_thumb_up_24dp.xml.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\drawable\\ic_thumb_up_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_search_black_24dp.xml.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\drawable\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\font_dancing_script.ttf.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\font\\dancing_script.ttf"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_thumb_down_24dp.xml.flat",
+        "source": "C:\\Users\\YuyunChen\\Downloads\\TinNews\\app\\src\\main\\res\\drawable\\ic_thumb_down_24dp.xml"
+    }
+]
